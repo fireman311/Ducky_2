@@ -1,0 +1,1 @@
+systeminfo > "T:\IT\Test\$env:USERNAME$env:COMPUTERNAME$(get-date -f yyyy-MM-dd).txt"
